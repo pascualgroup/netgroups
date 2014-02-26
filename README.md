@@ -121,7 +121,28 @@ Summary of configuration options:
 
 ## Running the program
 
-TODO
+Create a working directory with your network data and configuration file. Then run the program using:
+
+```{sh}
+cd path/to/working-dir
+path/to/netgroups/scripts/netgroups_run.py config.json
+```
+
+You can monitor the progress of the samples and best-samples files using `monitor_progress.sh` in another terminal:
+
+```{sh}
+path/to/netgroups/scripts/monitor_progress.sh path/to/working-dir/samples.jsons
+```
+
+When complete, you can extract samples files into CSV format using `samples2csv.py`, e.g.,
+
+```{sh}
+path/to/netgroups/scripts/samples2csv.py path/to/working-dir/samples.jsons
+```
+
+which will create `samples.csv`.
+
+The files in the `db` directory will allow the software to start where it left off in future versions, but for now you can delete these files once the program has finished.
 
 ## Differences from the code used in the paper
 
