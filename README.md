@@ -30,6 +30,18 @@ Currently only implemented for undirected multigraphs; directed support planned.
 * Scripts require Python (2.7.x recommended).
 * Only tested on Mac OS X; Linux should work. Windows support should be possible by modifying scripts but is not currently present.
 
+## Installation
+
+Download the latest release distribution from the GitHub page:
+
+https://github.com/pascualgroup/netgroups
+
+Then download CERN Colt and Google GSON and place their `.jar` files in the `jar` directory of the distribution:
+
+http://acs.lbl.gov/software/colt/colt-download/releases/colt-1.2.0.zip
+
+https://code.google.com/p/google-gson/
+
 ## Setting up an analysis
 
 Data must currently be in JSON format, like so:
