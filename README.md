@@ -11,6 +11,8 @@ which is based on the maximum-likelihood version in Allesina and Pascual 2009 (E
 
 http://dx.doi.org/10.1111/j.1461-0248.2009.01321.x
 
-Also includes directed and undirected Bayesian implementations of the degree-corrected stochastic block model of Karrer 2011 (Physical Review E):
+Still in testing: a Bayesian implementation of the degree-corrected stochastic block model of Karrer 2011 (Physical Review E):
 
 http://dx.doi.org/10.1103/PhysRevE.83.016107
+
+Currently only implemented for undirected multigraphs; directed support planned.
