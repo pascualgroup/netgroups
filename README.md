@@ -34,7 +34,7 @@ Currently only implemented for undirected multigraphs; directed support planned.
 
 Download the latest release distribution from the GitHub page:
 
-https://github.com/pascualgroup/netgroups
+https://github.com/pascualgroup/netgroups/releases
 
 Then download CERN Colt and Google GSON and place their `.jar` files in the `jar` directory of the distribution:
 
