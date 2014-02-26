@@ -1,8 +1,6 @@
 netgroups
 =========
 
-(Placeholder; code coming shortly.)
-
 Finds groups in networks (e.g., food webs) using Bayesian stochastic block models and Metropolis-coupled Markov-chain Monte Carlo (MC3).
 
 Includes the Bayesan group model used in Baskerville et al. 2011 (PLOS Computational Biology):

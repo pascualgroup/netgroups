@@ -1,0 +1,12 @@
+{
+	"dataFilename" : "serengeti-network.json",
+	"modelType" : "SIMPLE_GRAPH",
+	"sampleFilename" : "samples.jsons",
+	"bestSampleFilename" : "samples_best.jsons",
+	"groupCount" : 3,
+	"chainCount" : 1,
+	"memory" : 512,
+	"differentWithinGroupPrior" : true,
+	"tuneFor" : 1000,
+	"runFor" : 10000
+}

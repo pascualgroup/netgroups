@@ -1,0 +1,3128 @@
+{
+  "directed": true, 
+  "nodes": [
+    "ABU", 
+    "ACAFRU", 
+    "ACAROB", 
+    "ACASEN", 
+    "ACASEY", 
+    "ACATOR", 
+    "ACAXAN", 
+    "ACHASP", 
+    "ACIJUB", 
+    "AEPMEL", 
+    "ALBHAR", 
+    "ALBU", 
+    "ALCBUS", 
+    "ALLRUB", 
+    "ALOMAC", 
+    "ALOSEC", 
+    "ANDGRE", 
+    "ANDSCH", 
+    "ARI", 
+    "BALAEG", 
+    "BLEACA", 
+    "BOSAUG", 
+    "BOTINS", 
+    "BRASEM", 
+    "CANAUR", 
+    "CANMES", 
+    "CAPTOM", 
+    "CARCAR", 
+    "CECCIL", 
+    "CHLGAY", 
+    "CHLPYC", 
+    "CHLROX", 
+    "CISQUA", 
+    "CISROT", 
+    "COMMEAFR", 
+    "COMMER", 
+    "COMMIAFR", 
+    "COMMOL", 
+    "COMSCH", 
+    "CONTAU", 
+    "COROVA", 
+    "CROCRO", 
+    "CRODIC", 
+    "CROMAC", 
+    "CROSPI", 
+    "CYMEXC", 
+    "CYNDAC", 
+    "CYP", 
+    "CYPH", 
+    "DAMKOR", 
+    "DIGDIA", 
+    "DIGMAC", 
+    "DIGMIL", 
+    "DIGSCA", 
+    "DIGTER", 
+    "DIGVEL", 
+    "DIHAMP", 
+    "DINRET", 
+    "DUOKIL", 
+    "ECHHAP", 
+    "EMICOC", 
+    "EQUBUR", 
+    "ERAASP", 
+    "ERACIL", 
+    "ERAEXA", 
+    "ERATEN", 
+    "ERINUB", 
+    "EUPCAN", 
+    "EUSPAS", 
+    "FICGLU", 
+    "FICING", 
+    "FICTHI", 
+    "GAZGRA", 
+    "GAZTHO", 
+    "GIRCAM", 
+    "GREBIC", 
+    "GREFAL", 
+    "GRETRI", 
+    "HARSCH", 
+    "HELSTE", 
+    "HETBRU", 
+    "HETCON", 
+    "HIB", 
+    "HIBLUN", 
+    "HIPAMP", 
+    "HOSOPP", 
+    "HYPDIS", 
+    "HYPFIL", 
+    "HYPFOR", 
+    "HYPRUF", 
+    "IBO", 
+    "INDBAS", 
+    "INDHOC", 
+    "IPOOBS", 
+    "JAS", 
+    "KAL", 
+    "KEDFOE", 
+    "KIGAFR", 
+    "KOBELL", 
+    "KYLNER", 
+    "LEPSER", 
+    "LIPUKA", 
+    "LONERI", 
+    "LOXAFR", 
+    "LYCPIC", 
+    "MADKIR", 
+    "MAETRI", 
+    "MICKUN", 
+    "OCI", 
+    "OLE", 
+    "OUROUR", 
+    "PANCOL", 
+    "PANDEU", 
+    "PANLEO", 
+    "PANMAX", 
+    "PANPAR", 
+    "PANREP", 
+    "PAPANU", 
+    "PAPCAP", 
+    "PAVASS", 
+    "PAVPAT", 
+    "PEDCAP", 
+    "PELCAL", 
+    "PENMEZ", 
+    "PENSTR", 
+    "PHAAET", 
+    "PHRMAU", 
+    "PHYSEP", 
+    "PROCAP", 
+    "PSIJAE", 
+    "PUPLAP", 
+    "REDRED", 
+    "RHAPUM", 
+    "RHOREV", 
+    "SARVER", 
+    "SCLBIR", 
+    "SENDID", 
+    "SENEHR", 
+    "SENSUF", 
+    "SETPAL", 
+    "SETSPH", 
+    "SID", 
+    "SOLDEN", 
+    "SOLINC", 
+    "SOLNIG", 
+    "SPOFES", 
+    "SPOFIM", 
+    "SPOIOC", 
+    "SPOPEL", 
+    "SPOPYR", 
+    "SPOSPI", 
+    "SPOSTA", 
+    "SYNCAF", 
+    "TAUORY", 
+    "THETRI", 
+    "TRASCR", 
+    "TRIEIC", 
+    "TURFIS", 
+    "TYPCAP", 
+    "XIMCAF", 
+    "ZIZ"
+  ], 
+  "edges": [
+    {
+      "from": "AEPMEL", 
+      "to": "ACIJUB", 
+      "count": 1
+    }, 
+    {
+      "from": "CONTAU", 
+      "to": "ACIJUB", 
+      "count": 1
+    }, 
+    {
+      "from": "GAZGRA", 
+      "to": "ACIJUB", 
+      "count": 1
+    }, 
+    {
+      "from": "GAZTHO", 
+      "to": "ACIJUB", 
+      "count": 1
+    }, 
+    {
+      "from": "MADKIR", 
+      "to": "ACIJUB", 
+      "count": 1
+    }, 
+    {
+      "from": "OUROUR", 
+      "to": "ACIJUB", 
+      "count": 1
+    }, 
+    {
+      "from": "PHAAET", 
+      "to": "ACIJUB", 
+      "count": 1
+    }, 
+    {
+      "from": "REDRED", 
+      "to": "ACIJUB", 
+      "count": 1
+    }, 
+    {
+      "from": "CONTAU", 
+      "to": "CANAUR", 
+      "count": 1
+    }, 
+    {
+      "from": "EQUBUR", 
+      "to": "CANAUR", 
+      "count": 1
+    }, 
+    {
+      "from": "GAZGRA", 
+      "to": "CANAUR", 
+      "count": 1
+    }, 
+    {
+      "from": "GAZTHO", 
+      "to": "CANAUR", 
+      "count": 1
+    }, 
+    {
+      "from": "MADKIR", 
+      "to": "CANMES", 
+      "count": 1
+    }, 
+    {
+      "from": "MADKIR", 
+      "to": "CARCAR", 
+      "count": 1
+    }, 
+    {
+      "from": "PEDCAP", 
+      "to": "CARCAR", 
+      "count": 1
+    }, 
+    {
+      "from": "PROCAP", 
+      "to": "CARCAR", 
+      "count": 1
+    }, 
+    {
+      "from": "RHAPUM", 
+      "to": "CARCAR", 
+      "count": 1
+    }, 
+    {
+      "from": "AEPMEL", 
+      "to": "CROCRO", 
+      "count": 1
+    }, 
+    {
+      "from": "ALCBUS", 
+      "to": "CROCRO", 
+      "count": 1
+    }, 
+    {
+      "from": "CONTAU", 
+      "to": "CROCRO", 
+      "count": 1
+    }, 
+    {
+      "from": "DAMKOR", 
+      "to": "CROCRO", 
+      "count": 1
+    }, 
+    {
+      "from": "EQUBUR", 
+      "to": "CROCRO", 
+      "count": 1
+    }, 
+    {
+      "from": "GAZGRA", 
+      "to": "CROCRO", 
+      "count": 1
+    }, 
+    {
+      "from": "GAZTHO", 
+      "to": "CROCRO", 
+      "count": 1
+    }, 
+    {
+      "from": "KOBELL", 
+      "to": "CROCRO", 
+      "count": 1
+    }, 
+    {
+      "from": "MADKIR", 
+      "to": "CROCRO", 
+      "count": 1
+    }, 
+    {
+      "from": "OUROUR", 
+      "to": "CROCRO", 
+      "count": 1
+    }, 
+    {
+      "from": "PHAAET", 
+      "to": "CROCRO", 
+      "count": 1
+    }, 
+    {
+      "from": "REDRED", 
+      "to": "CROCRO", 
+      "count": 1
+    }, 
+    {
+      "from": "RHAPUM", 
+      "to": "LEPSER", 
+      "count": 1
+    }, 
+    {
+      "from": "AEPMEL", 
+      "to": "LYCPIC", 
+      "count": 1
+    }, 
+    {
+      "from": "ALCBUS", 
+      "to": "LYCPIC", 
+      "count": 1
+    }, 
+    {
+      "from": "CONTAU", 
+      "to": "LYCPIC", 
+      "count": 1
+    }, 
+    {
+      "from": "DAMKOR", 
+      "to": "LYCPIC", 
+      "count": 1
+    }, 
+    {
+      "from": "EQUBUR", 
+      "to": "LYCPIC", 
+      "count": 1
+    }, 
+    {
+      "from": "GAZGRA", 
+      "to": "LYCPIC", 
+      "count": 1
+    }, 
+    {
+      "from": "GAZTHO", 
+      "to": "LYCPIC", 
+      "count": 1
+    }, 
+    {
+      "from": "KOBELL", 
+      "to": "LYCPIC", 
+      "count": 1
+    }, 
+    {
+      "from": "MADKIR", 
+      "to": "LYCPIC", 
+      "count": 1
+    }, 
+    {
+      "from": "OUROUR", 
+      "to": "LYCPIC", 
+      "count": 1
+    }, 
+    {
+      "from": "PHAAET", 
+      "to": "LYCPIC", 
+      "count": 1
+    }, 
+    {
+      "from": "REDRED", 
+      "to": "LYCPIC", 
+      "count": 1
+    }, 
+    {
+      "from": "RHAPUM", 
+      "to": "LYCPIC", 
+      "count": 1
+    }, 
+    {
+      "from": "TRASCR", 
+      "to": "LYCPIC", 
+      "count": 1
+    }, 
+    {
+      "from": "AEPMEL", 
+      "to": "PANLEO", 
+      "count": 1
+    }, 
+    {
+      "from": "ALCBUS", 
+      "to": "PANLEO", 
+      "count": 1
+    }, 
+    {
+      "from": "CONTAU", 
+      "to": "PANLEO", 
+      "count": 1
+    }, 
+    {
+      "from": "CROCRO", 
+      "to": "PANLEO", 
+      "count": 1
+    }, 
+    {
+      "from": "DAMKOR", 
+      "to": "PANLEO", 
+      "count": 1
+    }, 
+    {
+      "from": "EQUBUR", 
+      "to": "PANLEO", 
+      "count": 1
+    }, 
+    {
+      "from": "GAZGRA", 
+      "to": "PANLEO", 
+      "count": 1
+    }, 
+    {
+      "from": "GAZTHO", 
+      "to": "PANLEO", 
+      "count": 1
+    }, 
+    {
+      "from": "GIRCAM", 
+      "to": "PANLEO", 
+      "count": 1
+    }, 
+    {
+      "from": "KOBELL", 
+      "to": "PANLEO", 
+      "count": 1
+    }, 
+    {
+      "from": "MADKIR", 
+      "to": "PANLEO", 
+      "count": 1
+    }, 
+    {
+      "from": "OUROUR", 
+      "to": "PANLEO", 
+      "count": 1
+    }, 
+    {
+      "from": "PANLEO", 
+      "to": "PANLEO", 
+      "count": 1
+    }, 
+    {
+      "from": "PHAAET", 
+      "to": "PANLEO", 
+      "count": 1
+    }, 
+    {
+      "from": "REDRED", 
+      "to": "PANLEO", 
+      "count": 1
+    }, 
+    {
+      "from": "RHAPUM", 
+      "to": "PANLEO", 
+      "count": 1
+    }, 
+    {
+      "from": "SYNCAF", 
+      "to": "PANLEO", 
+      "count": 1
+    }, 
+    {
+      "from": "TAUORY", 
+      "to": "PANLEO", 
+      "count": 1
+    }, 
+    {
+      "from": "TRASCR", 
+      "to": "PANLEO", 
+      "count": 1
+    }, 
+    {
+      "from": "ACIJUB", 
+      "to": "PANPAR", 
+      "count": 1
+    }, 
+    {
+      "from": "AEPMEL", 
+      "to": "PANPAR", 
+      "count": 1
+    }, 
+    {
+      "from": "ALCBUS", 
+      "to": "PANPAR", 
+      "count": 1
+    }, 
+    {
+      "from": "CANAUR", 
+      "to": "PANPAR", 
+      "count": 1
+    }, 
+    {
+      "from": "CANMES", 
+      "to": "PANPAR", 
+      "count": 1
+    }, 
+    {
+      "from": "CONTAU", 
+      "to": "PANPAR", 
+      "count": 1
+    }, 
+    {
+      "from": "DAMKOR", 
+      "to": "PANPAR", 
+      "count": 1
+    }, 
+    {
+      "from": "EQUBUR", 
+      "to": "PANPAR", 
+      "count": 1
+    }, 
+    {
+      "from": "GAZGRA", 
+      "to": "PANPAR", 
+      "count": 1
+    }, 
+    {
+      "from": "GAZTHO", 
+      "to": "PANPAR", 
+      "count": 1
+    }, 
+    {
+      "from": "HETBRU", 
+      "to": "PANPAR", 
+      "count": 1
+    }, 
+    {
+      "from": "KOBELL", 
+      "to": "PANPAR", 
+      "count": 1
+    }, 
+    {
+      "from": "LEPSER", 
+      "to": "PANPAR", 
+      "count": 1
+    }, 
+    {
+      "from": "MADKIR", 
+      "to": "PANPAR", 
+      "count": 1
+    }, 
+    {
+      "from": "OUROUR", 
+      "to": "PANPAR", 
+      "count": 1
+    }, 
+    {
+      "from": "PAPANU", 
+      "to": "PANPAR", 
+      "count": 1
+    }, 
+    {
+      "from": "PEDCAP", 
+      "to": "PANPAR", 
+      "count": 1
+    }, 
+    {
+      "from": "PHAAET", 
+      "to": "PANPAR", 
+      "count": 1
+    }, 
+    {
+      "from": "REDRED", 
+      "to": "PANPAR", 
+      "count": 1
+    }, 
+    {
+      "from": "RHAPUM", 
+      "to": "PANPAR", 
+      "count": 1
+    }, 
+    {
+      "from": "TAUORY", 
+      "to": "PANPAR", 
+      "count": 1
+    }, 
+    {
+      "from": "TRASCR", 
+      "to": "PANPAR", 
+      "count": 1
+    }, 
+    {
+      "from": "ACASEN", 
+      "to": "AEPMEL", 
+      "count": 1
+    }, 
+    {
+      "from": "ACATOR", 
+      "to": "AEPMEL", 
+      "count": 1
+    }, 
+    {
+      "from": "ANDGRE", 
+      "to": "AEPMEL", 
+      "count": 1
+    }, 
+    {
+      "from": "ARI", 
+      "to": "AEPMEL", 
+      "count": 1
+    }, 
+    {
+      "from": "BRASEM", 
+      "to": "AEPMEL", 
+      "count": 1
+    }, 
+    {
+      "from": "CHLGAY", 
+      "to": "AEPMEL", 
+      "count": 1
+    }, 
+    {
+      "from": "COMMOL", 
+      "to": "AEPMEL", 
+      "count": 1
+    }, 
+    {
+      "from": "CROMAC", 
+      "to": "AEPMEL", 
+      "count": 1
+    }, 
+    {
+      "from": "CYNDAC", 
+      "to": "AEPMEL", 
+      "count": 1
+    }, 
+    {
+      "from": "GREBIC", 
+      "to": "AEPMEL", 
+      "count": 1
+    }, 
+    {
+      "from": "HARSCH", 
+      "to": "AEPMEL", 
+      "count": 1
+    }, 
+    {
+      "from": "HIB", 
+      "to": "AEPMEL", 
+      "count": 1
+    }, 
+    {
+      "from": "HYPFIL", 
+      "to": "AEPMEL", 
+      "count": 1
+    }, 
+    {
+      "from": "HYPRUF", 
+      "to": "AEPMEL", 
+      "count": 1
+    }, 
+    {
+      "from": "INDHOC", 
+      "to": "AEPMEL", 
+      "count": 1
+    }, 
+    {
+      "from": "PANMAX", 
+      "to": "AEPMEL", 
+      "count": 1
+    }, 
+    {
+      "from": "PENMEZ", 
+      "to": "AEPMEL", 
+      "count": 1
+    }, 
+    {
+      "from": "SID", 
+      "to": "AEPMEL", 
+      "count": 1
+    }, 
+    {
+      "from": "SOLINC", 
+      "to": "AEPMEL", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOFES", 
+      "to": "AEPMEL", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOIOC", 
+      "to": "AEPMEL", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOPYR", 
+      "to": "AEPMEL", 
+      "count": 1
+    }, 
+    {
+      "from": "THETRI", 
+      "to": "AEPMEL", 
+      "count": 1
+    }, 
+    {
+      "from": "ANDGRE", 
+      "to": "ALCBUS", 
+      "count": 1
+    }, 
+    {
+      "from": "ARI", 
+      "to": "ALCBUS", 
+      "count": 1
+    }, 
+    {
+      "from": "BOTINS", 
+      "to": "ALCBUS", 
+      "count": 1
+    }, 
+    {
+      "from": "BRASEM", 
+      "to": "ALCBUS", 
+      "count": 1
+    }, 
+    {
+      "from": "CYNDAC", 
+      "to": "ALCBUS", 
+      "count": 1
+    }, 
+    {
+      "from": "DIGMAC", 
+      "to": "ALCBUS", 
+      "count": 1
+    }, 
+    {
+      "from": "DIGSCA", 
+      "to": "ALCBUS", 
+      "count": 1
+    }, 
+    {
+      "from": "DINRET", 
+      "to": "ALCBUS", 
+      "count": 1
+    }, 
+    {
+      "from": "EUSPAS", 
+      "to": "ALCBUS", 
+      "count": 1
+    }, 
+    {
+      "from": "HARSCH", 
+      "to": "ALCBUS", 
+      "count": 1
+    }, 
+    {
+      "from": "HETCON", 
+      "to": "ALCBUS", 
+      "count": 1
+    }, 
+    {
+      "from": "HYPFIL", 
+      "to": "ALCBUS", 
+      "count": 1
+    }, 
+    {
+      "from": "HYPRUF", 
+      "to": "ALCBUS", 
+      "count": 1
+    }, 
+    {
+      "from": "PANCOL", 
+      "to": "ALCBUS", 
+      "count": 1
+    }, 
+    {
+      "from": "PENMEZ", 
+      "to": "ALCBUS", 
+      "count": 1
+    }, 
+    {
+      "from": "SID", 
+      "to": "ALCBUS", 
+      "count": 1
+    }, 
+    {
+      "from": "SOLINC", 
+      "to": "ALCBUS", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOIOC", 
+      "to": "ALCBUS", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOPYR", 
+      "to": "ALCBUS", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOSPI", 
+      "to": "ALCBUS", 
+      "count": 1
+    }, 
+    {
+      "from": "THETRI", 
+      "to": "ALCBUS", 
+      "count": 1
+    }, 
+    {
+      "from": "ANDGRE", 
+      "to": "CONTAU", 
+      "count": 1
+    }, 
+    {
+      "from": "ARI", 
+      "to": "CONTAU", 
+      "count": 1
+    }, 
+    {
+      "from": "BOTINS", 
+      "to": "CONTAU", 
+      "count": 1
+    }, 
+    {
+      "from": "BRASEM", 
+      "to": "CONTAU", 
+      "count": 1
+    }, 
+    {
+      "from": "CHLGAY", 
+      "to": "CONTAU", 
+      "count": 1
+    }, 
+    {
+      "from": "CYNDAC", 
+      "to": "CONTAU", 
+      "count": 1
+    }, 
+    {
+      "from": "DIGDIA", 
+      "to": "CONTAU", 
+      "count": 1
+    }, 
+    {
+      "from": "DIGMAC", 
+      "to": "CONTAU", 
+      "count": 1
+    }, 
+    {
+      "from": "DIGSCA", 
+      "to": "CONTAU", 
+      "count": 1
+    }, 
+    {
+      "from": "DINRET", 
+      "to": "CONTAU", 
+      "count": 1
+    }, 
+    {
+      "from": "ERACIL", 
+      "to": "CONTAU", 
+      "count": 1
+    }, 
+    {
+      "from": "ERATEN", 
+      "to": "CONTAU", 
+      "count": 1
+    }, 
+    {
+      "from": "EUSPAS", 
+      "to": "CONTAU", 
+      "count": 1
+    }, 
+    {
+      "from": "HARSCH", 
+      "to": "CONTAU", 
+      "count": 1
+    }, 
+    {
+      "from": "HYPFIL", 
+      "to": "CONTAU", 
+      "count": 1
+    }, 
+    {
+      "from": "HYPRUF", 
+      "to": "CONTAU", 
+      "count": 1
+    }, 
+    {
+      "from": "INDHOC", 
+      "to": "CONTAU", 
+      "count": 1
+    }, 
+    {
+      "from": "MICKUN", 
+      "to": "CONTAU", 
+      "count": 1
+    }, 
+    {
+      "from": "PANCOL", 
+      "to": "CONTAU", 
+      "count": 1
+    }, 
+    {
+      "from": "PANMAX", 
+      "to": "CONTAU", 
+      "count": 1
+    }, 
+    {
+      "from": "PENMEZ", 
+      "to": "CONTAU", 
+      "count": 1
+    }, 
+    {
+      "from": "SID", 
+      "to": "CONTAU", 
+      "count": 1
+    }, 
+    {
+      "from": "SOLINC", 
+      "to": "CONTAU", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOIOC", 
+      "to": "CONTAU", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOPYR", 
+      "to": "CONTAU", 
+      "count": 1
+    }, 
+    {
+      "from": "THETRI", 
+      "to": "CONTAU", 
+      "count": 1
+    }, 
+    {
+      "from": "ARI", 
+      "to": "DAMKOR", 
+      "count": 1
+    }, 
+    {
+      "from": "BOTINS", 
+      "to": "DAMKOR", 
+      "count": 1
+    }, 
+    {
+      "from": "BRASEM", 
+      "to": "DAMKOR", 
+      "count": 1
+    }, 
+    {
+      "from": "CROMAC", 
+      "to": "DAMKOR", 
+      "count": 1
+    }, 
+    {
+      "from": "CYNDAC", 
+      "to": "DAMKOR", 
+      "count": 1
+    }, 
+    {
+      "from": "ERACIL", 
+      "to": "DAMKOR", 
+      "count": 1
+    }, 
+    {
+      "from": "HARSCH", 
+      "to": "DAMKOR", 
+      "count": 1
+    }, 
+    {
+      "from": "HIB", 
+      "to": "DAMKOR", 
+      "count": 1
+    }, 
+    {
+      "from": "HYPRUF", 
+      "to": "DAMKOR", 
+      "count": 1
+    }, 
+    {
+      "from": "PENMEZ", 
+      "to": "DAMKOR", 
+      "count": 1
+    }, 
+    {
+      "from": "PSIJAE", 
+      "to": "DAMKOR", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOPYR", 
+      "to": "DAMKOR", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOSPI", 
+      "to": "DAMKOR", 
+      "count": 1
+    }, 
+    {
+      "from": "THETRI", 
+      "to": "DAMKOR", 
+      "count": 1
+    }, 
+    {
+      "from": "ARI", 
+      "to": "EQUBUR", 
+      "count": 1
+    }, 
+    {
+      "from": "BOTINS", 
+      "to": "EQUBUR", 
+      "count": 1
+    }, 
+    {
+      "from": "BRASEM", 
+      "to": "EQUBUR", 
+      "count": 1
+    }, 
+    {
+      "from": "CROMAC", 
+      "to": "EQUBUR", 
+      "count": 1
+    }, 
+    {
+      "from": "CYNDAC", 
+      "to": "EQUBUR", 
+      "count": 1
+    }, 
+    {
+      "from": "DIGMAC", 
+      "to": "EQUBUR", 
+      "count": 1
+    }, 
+    {
+      "from": "DINRET", 
+      "to": "EQUBUR", 
+      "count": 1
+    }, 
+    {
+      "from": "ERATEN", 
+      "to": "EQUBUR", 
+      "count": 1
+    }, 
+    {
+      "from": "EUSPAS", 
+      "to": "EQUBUR", 
+      "count": 1
+    }, 
+    {
+      "from": "GREBIC", 
+      "to": "EQUBUR", 
+      "count": 1
+    }, 
+    {
+      "from": "HARSCH", 
+      "to": "EQUBUR", 
+      "count": 1
+    }, 
+    {
+      "from": "HETCON", 
+      "to": "EQUBUR", 
+      "count": 1
+    }, 
+    {
+      "from": "HYPFIL", 
+      "to": "EQUBUR", 
+      "count": 1
+    }, 
+    {
+      "from": "HYPRUF", 
+      "to": "EQUBUR", 
+      "count": 1
+    }, 
+    {
+      "from": "PANCOL", 
+      "to": "EQUBUR", 
+      "count": 1
+    }, 
+    {
+      "from": "PENMEZ", 
+      "to": "EQUBUR", 
+      "count": 1
+    }, 
+    {
+      "from": "SOLINC", 
+      "to": "EQUBUR", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOPYR", 
+      "to": "EQUBUR", 
+      "count": 1
+    }, 
+    {
+      "from": "THETRI", 
+      "to": "EQUBUR", 
+      "count": 1
+    }, 
+    {
+      "from": "ANDGRE", 
+      "to": "GAZGRA", 
+      "count": 1
+    }, 
+    {
+      "from": "ARI", 
+      "to": "GAZGRA", 
+      "count": 1
+    }, 
+    {
+      "from": "BALAEG", 
+      "to": "GAZGRA", 
+      "count": 1
+    }, 
+    {
+      "from": "BOTINS", 
+      "to": "GAZGRA", 
+      "count": 1
+    }, 
+    {
+      "from": "CYNDAC", 
+      "to": "GAZGRA", 
+      "count": 1
+    }, 
+    {
+      "from": "DIGMAC", 
+      "to": "GAZGRA", 
+      "count": 1
+    }, 
+    {
+      "from": "DIGSCA", 
+      "to": "GAZGRA", 
+      "count": 1
+    }, 
+    {
+      "from": "DINRET", 
+      "to": "GAZGRA", 
+      "count": 1
+    }, 
+    {
+      "from": "DUOKIL", 
+      "to": "GAZGRA", 
+      "count": 1
+    }, 
+    {
+      "from": "ERATEN", 
+      "to": "GAZGRA", 
+      "count": 1
+    }, 
+    {
+      "from": "EUSPAS", 
+      "to": "GAZGRA", 
+      "count": 1
+    }, 
+    {
+      "from": "GREBIC", 
+      "to": "GAZGRA", 
+      "count": 1
+    }, 
+    {
+      "from": "HARSCH", 
+      "to": "GAZGRA", 
+      "count": 1
+    }, 
+    {
+      "from": "HETCON", 
+      "to": "GAZGRA", 
+      "count": 1
+    }, 
+    {
+      "from": "HIB", 
+      "to": "GAZGRA", 
+      "count": 1
+    }, 
+    {
+      "from": "HYPFIL", 
+      "to": "GAZGRA", 
+      "count": 1
+    }, 
+    {
+      "from": "HYPRUF", 
+      "to": "GAZGRA", 
+      "count": 1
+    }, 
+    {
+      "from": "INDHOC", 
+      "to": "GAZGRA", 
+      "count": 1
+    }, 
+    {
+      "from": "MICKUN", 
+      "to": "GAZGRA", 
+      "count": 1
+    }, 
+    {
+      "from": "PANCOL", 
+      "to": "GAZGRA", 
+      "count": 1
+    }, 
+    {
+      "from": "PENMEZ", 
+      "to": "GAZGRA", 
+      "count": 1
+    }, 
+    {
+      "from": "PENSTR", 
+      "to": "GAZGRA", 
+      "count": 1
+    }, 
+    {
+      "from": "SID", 
+      "to": "GAZGRA", 
+      "count": 1
+    }, 
+    {
+      "from": "SOLINC", 
+      "to": "GAZGRA", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOFIM", 
+      "to": "GAZGRA", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOIOC", 
+      "to": "GAZGRA", 
+      "count": 1
+    }, 
+    {
+      "from": "THETRI", 
+      "to": "GAZGRA", 
+      "count": 1
+    }, 
+    {
+      "from": "ANDGRE", 
+      "to": "GAZTHO", 
+      "count": 1
+    }, 
+    {
+      "from": "ARI", 
+      "to": "GAZTHO", 
+      "count": 1
+    }, 
+    {
+      "from": "BALAEG", 
+      "to": "GAZTHO", 
+      "count": 1
+    }, 
+    {
+      "from": "BOTINS", 
+      "to": "GAZTHO", 
+      "count": 1
+    }, 
+    {
+      "from": "BRASEM", 
+      "to": "GAZTHO", 
+      "count": 1
+    }, 
+    {
+      "from": "CYNDAC", 
+      "to": "GAZTHO", 
+      "count": 1
+    }, 
+    {
+      "from": "DIGDIA", 
+      "to": "GAZTHO", 
+      "count": 1
+    }, 
+    {
+      "from": "DIGMAC", 
+      "to": "GAZTHO", 
+      "count": 1
+    }, 
+    {
+      "from": "DIGSCA", 
+      "to": "GAZTHO", 
+      "count": 1
+    }, 
+    {
+      "from": "DINRET", 
+      "to": "GAZTHO", 
+      "count": 1
+    }, 
+    {
+      "from": "ERACIL", 
+      "to": "GAZTHO", 
+      "count": 1
+    }, 
+    {
+      "from": "ERATEN", 
+      "to": "GAZTHO", 
+      "count": 1
+    }, 
+    {
+      "from": "EUSPAS", 
+      "to": "GAZTHO", 
+      "count": 1
+    }, 
+    {
+      "from": "HARSCH", 
+      "to": "GAZTHO", 
+      "count": 1
+    }, 
+    {
+      "from": "HETCON", 
+      "to": "GAZTHO", 
+      "count": 1
+    }, 
+    {
+      "from": "HYPRUF", 
+      "to": "GAZTHO", 
+      "count": 1
+    }, 
+    {
+      "from": "INDHOC", 
+      "to": "GAZTHO", 
+      "count": 1
+    }, 
+    {
+      "from": "MICKUN", 
+      "to": "GAZTHO", 
+      "count": 1
+    }, 
+    {
+      "from": "PANCOL", 
+      "to": "GAZTHO", 
+      "count": 1
+    }, 
+    {
+      "from": "PENMEZ", 
+      "to": "GAZTHO", 
+      "count": 1
+    }, 
+    {
+      "from": "SID", 
+      "to": "GAZTHO", 
+      "count": 1
+    }, 
+    {
+      "from": "SOLINC", 
+      "to": "GAZTHO", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOFIM", 
+      "to": "GAZTHO", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOIOC", 
+      "to": "GAZTHO", 
+      "count": 1
+    }, 
+    {
+      "from": "THETRI", 
+      "to": "GAZTHO", 
+      "count": 1
+    }, 
+    {
+      "from": "ACAROB", 
+      "to": "GIRCAM", 
+      "count": 1
+    }, 
+    {
+      "from": "ACASEN", 
+      "to": "GIRCAM", 
+      "count": 1
+    }, 
+    {
+      "from": "ACASEY", 
+      "to": "GIRCAM", 
+      "count": 1
+    }, 
+    {
+      "from": "ACATOR", 
+      "to": "GIRCAM", 
+      "count": 1
+    }, 
+    {
+      "from": "BALAEG", 
+      "to": "GIRCAM", 
+      "count": 1
+    }, 
+    {
+      "from": "COMMIAFR", 
+      "to": "GIRCAM", 
+      "count": 1
+    }, 
+    {
+      "from": "COROVA", 
+      "to": "GIRCAM", 
+      "count": 1
+    }, 
+    {
+      "from": "CROMAC", 
+      "to": "GIRCAM", 
+      "count": 1
+    }, 
+    {
+      "from": "GREBIC", 
+      "to": "GIRCAM", 
+      "count": 1
+    }, 
+    {
+      "from": "GREFAL", 
+      "to": "GIRCAM", 
+      "count": 1
+    }, 
+    {
+      "from": "GRETRI", 
+      "to": "GIRCAM", 
+      "count": 1
+    }, 
+    {
+      "from": "HIB", 
+      "to": "GIRCAM", 
+      "count": 1
+    }, 
+    {
+      "from": "HIBLUN", 
+      "to": "GIRCAM", 
+      "count": 1
+    }, 
+    {
+      "from": "INDHOC", 
+      "to": "GIRCAM", 
+      "count": 1
+    }, 
+    {
+      "from": "MAETRI", 
+      "to": "GIRCAM", 
+      "count": 1
+    }, 
+    {
+      "from": "OLE", 
+      "to": "GIRCAM", 
+      "count": 1
+    }, 
+    {
+      "from": "PAVASS", 
+      "to": "GIRCAM", 
+      "count": 1
+    }, 
+    {
+      "from": "PHYSEP", 
+      "to": "GIRCAM", 
+      "count": 1
+    }, 
+    {
+      "from": "SID", 
+      "to": "GIRCAM", 
+      "count": 1
+    }, 
+    {
+      "from": "SOLINC", 
+      "to": "GIRCAM", 
+      "count": 1
+    }, 
+    {
+      "from": "ABU", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "ACAFRU", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "ACAROB", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "ACATOR", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "ALBHAR", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "ALBU", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "ALLRUB", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "ALOMAC", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "ALOSEC", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "ARI", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "BALAEG", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "CAPTOM", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "CECCIL", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "CISQUA", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "CISROT", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "COMMEAFR", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "COMMER", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "COMSCH", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "COROVA", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "CRODIC", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "CYNDAC", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "CYPH", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "DIGVEL", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "EMICOC", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "FICGLU", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "FICING", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "FICTHI", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "GREFAL", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "GRETRI", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "HELSTE", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "HETCON", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "HIB", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "HIBLUN", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "HOSOPP", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "HYPFOR", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "INDBAS", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "IPOOBS", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "JAS", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "KAL", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "KEDFOE", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "LIPUKA", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "MAETRI", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "OCI", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "PANMAX", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "PAPCAP", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "PAVASS", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "PAVPAT", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "PENMEZ", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "PENSTR", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "PHYSEP", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "PUPLAP", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "SCLBIR", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "SENDID", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "SENEHR", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "SENSUF", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "SOLDEN", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "THETRI", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "TRIEIC", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "TURFIS", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "XIMCAF", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "ZIZ", 
+      "to": "HETBRU", 
+      "count": 1
+    }, 
+    {
+      "from": "BOTINS", 
+      "to": "HIPAMP", 
+      "count": 1
+    }, 
+    {
+      "from": "CHLGAY", 
+      "to": "HIPAMP", 
+      "count": 1
+    }, 
+    {
+      "from": "CYNDAC", 
+      "to": "HIPAMP", 
+      "count": 1
+    }, 
+    {
+      "from": "HETCON", 
+      "to": "HIPAMP", 
+      "count": 1
+    }, 
+    {
+      "from": "HYPFIL", 
+      "to": "HIPAMP", 
+      "count": 1
+    }, 
+    {
+      "from": "PANREP", 
+      "to": "HIPAMP", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOIOC", 
+      "to": "HIPAMP", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOPYR", 
+      "to": "HIPAMP", 
+      "count": 1
+    }, 
+    {
+      "from": "THETRI", 
+      "to": "HIPAMP", 
+      "count": 1
+    }, 
+    {
+      "from": "ACATOR", 
+      "to": "KOBELL", 
+      "count": 1
+    }, 
+    {
+      "from": "ANDSCH", 
+      "to": "KOBELL", 
+      "count": 1
+    }, 
+    {
+      "from": "CHLGAY", 
+      "to": "KOBELL", 
+      "count": 1
+    }, 
+    {
+      "from": "CYMEXC", 
+      "to": "KOBELL", 
+      "count": 1
+    }, 
+    {
+      "from": "CYNDAC", 
+      "to": "KOBELL", 
+      "count": 1
+    }, 
+    {
+      "from": "DIGTER", 
+      "to": "KOBELL", 
+      "count": 1
+    }, 
+    {
+      "from": "HETCON", 
+      "to": "KOBELL", 
+      "count": 1
+    }, 
+    {
+      "from": "HYPFIL", 
+      "to": "KOBELL", 
+      "count": 1
+    }, 
+    {
+      "from": "PANCOL", 
+      "to": "KOBELL", 
+      "count": 1
+    }, 
+    {
+      "from": "PANMAX", 
+      "to": "KOBELL", 
+      "count": 1
+    }, 
+    {
+      "from": "PHRMAU", 
+      "to": "KOBELL", 
+      "count": 1
+    }, 
+    {
+      "from": "TYPCAP", 
+      "to": "KOBELL", 
+      "count": 1
+    }, 
+    {
+      "from": "ABU", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "ACAFRU", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "ACASEN", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "ACATOR", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "ALLRUB", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "ANDGRE", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "ARI", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "BALAEG", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "BLEACA", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "BRASEM", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "CAPTOM", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "CISQUA", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "CISROT", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "COMMEAFR", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "COMMER", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "COMSCH", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "COROVA", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "CRODIC", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "CROMAC", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "CYNDAC", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "FICGLU", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "FICING", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "GREBIC", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "GREFAL", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "GRETRI", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "HARSCH", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "HIB", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "HIBLUN", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "HYPFIL", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "IBO", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "INDBAS", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "INDHOC", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "MAETRI", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "PAPCAP", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "PAVASS", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "PHYSEP", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "RHOREV", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "SCLBIR", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "SENEHR", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "SID", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "SOLINC", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOIOC", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOPYR", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "THETRI", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "XIMCAF", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "ZIZ", 
+      "to": "LOXAFR", 
+      "count": 1
+    }, 
+    {
+      "from": "ACAFRU", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "ACHASP", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "ALLRUB", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "ALOMAC", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "ANDGRE", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "ARI", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "BOSAUG", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "CAPTOM", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "CECCIL", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "COMMEAFR", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "COMMIAFR", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "COROVA", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "ERATEN", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "FICGLU", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "GRETRI", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "HETCON", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "HIB", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "HIBLUN", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "HOSOPP", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "INDBAS", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "INDHOC", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "KAL", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "MAETRI", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "OCI", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "PANMAX", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "SENEHR", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "SOLDEN", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "SOLINC", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "SOLNIG", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOIOC", 
+      "to": "MADKIR", 
+      "count": 1
+    }, 
+    {
+      "from": "ANDGRE", 
+      "to": "OUROUR", 
+      "count": 1
+    }, 
+    {
+      "from": "HETCON", 
+      "to": "OUROUR", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOIOC", 
+      "to": "OUROUR", 
+      "count": 1
+    }, 
+    {
+      "from": "THETRI", 
+      "to": "OUROUR", 
+      "count": 1
+    }, 
+    {
+      "from": "ACAFRU", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "ACAROB", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "ACASEN", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "ACASEY", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "ACAXAN", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "ALBHAR", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "ANDGRE", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "BALAEG", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "CAPTOM", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "CISROT", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "COMMIAFR", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "CRODIC", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "CROSPI", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "DIGMIL", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "DIGVEL", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "ECHHAP", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "EUPCAN", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "HETCON", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "HIB", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "HYPFIL", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "IPOOBS", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "KIGAFR", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "PANCOL", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "PANDEU", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "SARVER", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "SCLBIR", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "SOLINC", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOIOC", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "THETRI", 
+      "to": "PAPANU", 
+      "count": 1
+    }, 
+    {
+      "from": "ARI", 
+      "to": "PEDCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "CHLPYC", 
+      "to": "PEDCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "CYNDAC", 
+      "to": "PEDCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "DIGDIA", 
+      "to": "PEDCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "DIGTER", 
+      "to": "PEDCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "ERAEXA", 
+      "to": "PEDCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "HARSCH", 
+      "to": "PEDCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "THETRI", 
+      "to": "PEDCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "ANDGRE", 
+      "to": "PHAAET", 
+      "count": 1
+    }, 
+    {
+      "from": "CHLGAY", 
+      "to": "PHAAET", 
+      "count": 1
+    }, 
+    {
+      "from": "CYNDAC", 
+      "to": "PHAAET", 
+      "count": 1
+    }, 
+    {
+      "from": "ECHHAP", 
+      "to": "PHAAET", 
+      "count": 1
+    }, 
+    {
+      "from": "ERAEXA", 
+      "to": "PHAAET", 
+      "count": 1
+    }, 
+    {
+      "from": "HETCON", 
+      "to": "PHAAET", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOIOC", 
+      "to": "PHAAET", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOPYR", 
+      "to": "PHAAET", 
+      "count": 1
+    }, 
+    {
+      "from": "THETRI", 
+      "to": "PHAAET", 
+      "count": 1
+    }, 
+    {
+      "from": "ABU", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "ACAFRU", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "ACAROB", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "ACATOR", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "ACHASP", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "ALBHAR", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "ALBU", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "ALLRUB", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "ALOMAC", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "ALOSEC", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "ARI", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "BLEACA", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "BOTINS", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "BRASEM", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "CAPTOM", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "CECCIL", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "CHLPYC", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "CISQUA", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "CISROT", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "COMMEAFR", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "COMMOL", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "COMSCH", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "COROVA", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "CRODIC", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "CYNDAC", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "CYP", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "CYPH", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "DIGMAC", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "DIGTER", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "DIHAMP", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "EMICOC", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "ERAASP", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "ERATEN", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "ERINUB", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "FICGLU", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "FICING", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "GREFAL", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "GRETRI", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "HETCON", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "HIB", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "HIBLUN", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "HOSOPP", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "HYPFOR", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "IBO", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "IPOOBS", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "JAS", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "KEDFOE", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "KYLNER", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "MAETRI", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "MICKUN", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "OCI", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "PANMAX", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "PAPCAP", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "PAVASS", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "PAVPAT", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "PELCAL", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "PENMEZ", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "PENSTR", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "PHYSEP", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "PUPLAP", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "RHOREV", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "SCLBIR", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "SENDID", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "SENEHR", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "SENSUF", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "SOLDEN", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "SOLINC", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "SOLNIG", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOPEL", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOSTA", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "THETRI", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "TURFIS", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "XIMCAF", 
+      "to": "PROCAP", 
+      "count": 1
+    }, 
+    {
+      "from": "HETCON", 
+      "to": "REDRED", 
+      "count": 1
+    }, 
+    {
+      "from": "HYPDIS", 
+      "to": "REDRED", 
+      "count": 1
+    }, 
+    {
+      "from": "PANMAX", 
+      "to": "REDRED", 
+      "count": 1
+    }, 
+    {
+      "from": "BOTINS", 
+      "to": "RHAPUM", 
+      "count": 1
+    }, 
+    {
+      "from": "CHLROX", 
+      "to": "RHAPUM", 
+      "count": 1
+    }, 
+    {
+      "from": "CYNDAC", 
+      "to": "RHAPUM", 
+      "count": 1
+    }, 
+    {
+      "from": "DIGMAC", 
+      "to": "RHAPUM", 
+      "count": 1
+    }, 
+    {
+      "from": "ERATEN", 
+      "to": "RHAPUM", 
+      "count": 1
+    }, 
+    {
+      "from": "EUSPAS", 
+      "to": "RHAPUM", 
+      "count": 1
+    }, 
+    {
+      "from": "HARSCH", 
+      "to": "RHAPUM", 
+      "count": 1
+    }, 
+    {
+      "from": "HETCON", 
+      "to": "RHAPUM", 
+      "count": 1
+    }, 
+    {
+      "from": "PANCOL", 
+      "to": "RHAPUM", 
+      "count": 1
+    }, 
+    {
+      "from": "PENMEZ", 
+      "to": "RHAPUM", 
+      "count": 1
+    }, 
+    {
+      "from": "THETRI", 
+      "to": "RHAPUM", 
+      "count": 1
+    }, 
+    {
+      "from": "ANDGRE", 
+      "to": "SYNCAF", 
+      "count": 1
+    }, 
+    {
+      "from": "ARI", 
+      "to": "SYNCAF", 
+      "count": 1
+    }, 
+    {
+      "from": "BRASEM", 
+      "to": "SYNCAF", 
+      "count": 1
+    }, 
+    {
+      "from": "CROMAC", 
+      "to": "SYNCAF", 
+      "count": 1
+    }, 
+    {
+      "from": "CYNDAC", 
+      "to": "SYNCAF", 
+      "count": 1
+    }, 
+    {
+      "from": "DIGMAC", 
+      "to": "SYNCAF", 
+      "count": 1
+    }, 
+    {
+      "from": "GREBIC", 
+      "to": "SYNCAF", 
+      "count": 1
+    }, 
+    {
+      "from": "HARSCH", 
+      "to": "SYNCAF", 
+      "count": 1
+    }, 
+    {
+      "from": "HIB", 
+      "to": "SYNCAF", 
+      "count": 1
+    }, 
+    {
+      "from": "HYPFIL", 
+      "to": "SYNCAF", 
+      "count": 1
+    }, 
+    {
+      "from": "PANCOL", 
+      "to": "SYNCAF", 
+      "count": 1
+    }, 
+    {
+      "from": "PANMAX", 
+      "to": "SYNCAF", 
+      "count": 1
+    }, 
+    {
+      "from": "PENMEZ", 
+      "to": "SYNCAF", 
+      "count": 1
+    }, 
+    {
+      "from": "SID", 
+      "to": "SYNCAF", 
+      "count": 1
+    }, 
+    {
+      "from": "SOLINC", 
+      "to": "SYNCAF", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOIOC", 
+      "to": "SYNCAF", 
+      "count": 1
+    }, 
+    {
+      "from": "SPOPYR", 
+      "to": "SYNCAF", 
+      "count": 1
+    }, 
+    {
+      "from": "THETRI", 
+      "to": "SYNCAF", 
+      "count": 1
+    }, 
+    {
+      "from": "ACATOR", 
+      "to": "TAUORY", 
+      "count": 1
+    }, 
+    {
+      "from": "BOTINS", 
+      "to": "TAUORY", 
+      "count": 1
+    }, 
+    {
+      "from": "CHLROX", 
+      "to": "TAUORY", 
+      "count": 1
+    }, 
+    {
+      "from": "COMMOL", 
+      "to": "TAUORY", 
+      "count": 1
+    }, 
+    {
+      "from": "CYNDAC", 
+      "to": "TAUORY", 
+      "count": 1
+    }, 
+    {
+      "from": "DIGMIL", 
+      "to": "TAUORY", 
+      "count": 1
+    }, 
+    {
+      "from": "DUOKIL", 
+      "to": "TAUORY", 
+      "count": 1
+    }, 
+    {
+      "from": "EUSPAS", 
+      "to": "TAUORY", 
+      "count": 1
+    }, 
+    {
+      "from": "GREBIC", 
+      "to": "TAUORY", 
+      "count": 1
+    }, 
+    {
+      "from": "LONERI", 
+      "to": "TAUORY", 
+      "count": 1
+    }, 
+    {
+      "from": "PANDEU", 
+      "to": "TAUORY", 
+      "count": 1
+    }, 
+    {
+      "from": "PANMAX", 
+      "to": "TAUORY", 
+      "count": 1
+    }, 
+    {
+      "from": "SETPAL", 
+      "to": "TAUORY", 
+      "count": 1
+    }, 
+    {
+      "from": "SETSPH", 
+      "to": "TAUORY", 
+      "count": 1
+    }, 
+    {
+      "from": "THETRI", 
+      "to": "TAUORY", 
+      "count": 1
+    }, 
+    {
+      "from": "ECHHAP", 
+      "to": "TRASCR", 
+      "count": 1
+    }, 
+    {
+      "from": "HETCON", 
+      "to": "TRASCR", 
+      "count": 1
+    }, 
+    {
+      "from": "HYPFIL", 
+      "to": "TRASCR", 
+      "count": 1
+    }, 
+    {
+      "from": "THETRI", 
+      "to": "TRASCR", 
+      "count": 1
+    }
+  ]
+}
